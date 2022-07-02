@@ -20,7 +20,7 @@
 <b><a href="https://www.github.com/Aadhi000" title="Dollow">Follow Me For Updates</a></b>
 
 <p align="center">
-    <a href="https://github.com/Aadhi000/File-To-Link">
+    <a href="https://github.com/X-X-Admin/PC-GAMES-BOT">
         <img src="https://www.flaticon.com/premium-icon/icons/svg/2626/2626281.svg" height="100" width="100" alt="Telegram Logo">
     </a>
 </p>
@@ -60,8 +60,8 @@ Press the below button to Fast deploy on Heroku
 
 
 ```py
-git clone https://github.com/adarsh-goel/Filestreambot-pro
-cd Filestreambot-pro
+git clone https://github.com/X-X-Admin/PC-GAMES-BOT
+cd PC-GAMES-BOT
 virtualenv -p /usr/bin/python3 venv
 . ./venv/bin/activate
 pip install -r requirements.txt
